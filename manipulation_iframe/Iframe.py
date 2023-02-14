@@ -1,3 +1,4 @@
+#exercice sur le site https://www.selenium.dev/selenium/docs/api/java/index.html?overview-summary.html
 import time  #import selenium <<permet
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
